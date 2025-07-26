@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Musab122333
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning coomputer science(Data Science)
+- 🌱 I’m currently learning computer science(Data Science)
 - 💞️ I’m looking to collaborate on New and Innovative Startups
 - 📫 You can reach me through email(musabwasi001112222@gmail.com) and phone call(8885301528)
 
