@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning computer science(Data Science)
 - 💞️ I’m looking to collaborate on New and Innovative Startups
-- 📫 You can reach me through email(musabwasi001112222@gmail.com) and phone call(8885301528)
+- 📫 You can reach me through email(musabwasi001112222@gmail.com) and phone call(+918885310528)
 
 <!---
 Musab122333/Musab122333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
