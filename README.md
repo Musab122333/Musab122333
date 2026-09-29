@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="id_badge_dar.svg">
-    <img alt="Musab Wasiuddin - developer profile card" src="id_badge_ligh.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="id_badge_dark.svg">
+    <img alt="Musab Wasiuddin - developer profile card" src="id_badge_light.svg" width="100%">
   </picture>
 </p>
 
